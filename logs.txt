@@ -1,0 +1,6 @@
+$ git log
+commit dc1e40ee44b0dc92c1e4fc58b97e985822fda521 (HEAD -> logs, origin/master, master)
+Author: Verche Gjorgieva <verche.gjorgieva@singular.uk>
+Date:   Thu Apr 4 09:41:04 2019 +0200
+
+    Inital commit
